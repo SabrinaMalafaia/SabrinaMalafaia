@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Sabrina Malafaia 👋
 
 <!--
 **SabrinaMalafaia/SabrinaMalafaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
