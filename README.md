@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Sabrina Malafaia 👋
 
-- 🌱 Atualmente estou estudando Front-End.
+- 🌱 Atualmente estou fazendo o curso de Análise e Desenvolvimento de Sistemas.
 ##
 
 <div align="center">
